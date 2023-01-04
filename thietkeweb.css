@@ -1,0 +1,180 @@
+.card-link1 {
+    width: 50%;
+    float: left;
+    color: grey;
+  }
+  .card-link {
+    color: grey;
+  }
+  button {
+    float: right;
+  }
+  #name {
+    margin: auto;
+    color: grey;
+    gap: 60px;
+  
+  }
+  .aa {
+    background-color: black;
+    color: azure;
+    float: left;
+    width: 100%;
+    padding: 50px;
+    font-family: 'Times New Roman';
+    border-radius: 20px 20px 20px 20px;
+    
+  }
+  i {
+    font-size: 40px;
+  }
+  .main1 {
+    color:azure;
+    color: black;
+  }
+  .bb {
+    background-color: azure;
+    padding: 20px;
+    width: 400px;
+  }
+  
+  .dd {
+    color: rgb(24, 30, 30);
+    margin: auto;
+    
+  }
+  .left1 {
+   width:30%;
+   background-color:gray;
+   float:right;
+   margin:auto;
+   padding: 90px;
+   height: 240px;
+   border-radius: 0px 5px 5px 0px;
+   /* vertical-align: middle; */
+   
+  }
+  .left2 {
+    width:30%;
+   background-color:gray;
+   float:right;
+   margin:auto;
+   padding: 90px;
+   height: 240px;
+   /* text-align: center; */
+   border-radius: 0px 5px 5px 0px;
+  }
+  #section {
+      margin: auto;
+      width:85%;
+      background-color:white;
+  }
+  .cleafix {
+   float: left;
+  }
+  .left {
+      width: 70%;
+      float:left;
+      padding: 10px;
+      border: 1px solid;
+      border-radius: 5px 0px 0px 5px;
+  }
+  .right {
+    width: 70%;
+    float: left;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px 0px 0px 5px;
+    
+  }
+  .ab {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+  }
+  .qq {
+    font-size: 30px;
+  }
+  .ww{
+    font-size: 45px;
+  }
+  .ee {
+    font-size: 35px;
+  }
+  .tt {
+    color: fuchsia;
+  }
+.dd{
+    margin-top: 3px;
+}
+.gg{
+    color: grey;
+    float: left;
+}
+.btn {
+    margin-right: 5px;
+    float: left;
+}
+.footer {
+    text-align: center;
+    width: 100%;
+    background-color: rgb(228, 240, 250);
+    padding-top: 20px;
+    border: 1px solid rgb(228, 240, 250);
+}
+.vv{
+    width: 50px;
+}
+.bb{
+
+    width: 300px;
+}
+.nemo2 {
+    padding: 15px 25px;
+    margin-top: 10px;
+}
+.col-md-4 {
+    float: right;
+    padding-left: 10px;
+    width: 20px;
+}
+.col-md-8 {
+    width: 60%;
+    float: left;
+}
+.jj{
+    width: 100%;
+}
+/* #jj{
+    width: 60%;
+    float: left;
+} */
+.ll{
+    padding: 40px;
+}
+.footer {
+  text-align: center;
+  width: 100%;
+  background-color: rgb(228, 240, 250);
+  padding-top: 20px;
+  border: 1px solid rgb(228, 240, 250);
+}
+.btn{
+  float: right;
+}
+#no{
+  float: right;
+  margin-right:10px;
+  font-size: 30px;
+}
+.zx{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 35px;
+}
+/* .left12 {
+  float: left;
+  width: 40%;
+}
+.right11 {
+float: right;
+} */
